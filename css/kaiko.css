@@ -1,0 +1,17 @@
+#fish{
+  position: absolute;
+  top:400px;
+  left:40px;
+  }
+  .kaiko{
+    transform: scale(-1, 1);
+  }
+  .kiko_wrap{
+    text-align: center;
+    margin-top: 60px;
+  }
+  .goodbye{
+    font-size: 32px;
+    color: #fff;
+    letter-spacing: 0.3rem;
+  }
